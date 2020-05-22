@@ -10,8 +10,8 @@ You should follow the below steps to get your credits & one month pass:
 
   <ul>
   <li>Open <a href='https://go.qwiklabs.com/cloud-study-jams-2020'>This Link</a> in the incognito window.</li>
-  <li>Find the Tensorflow on GCP and click “enroll”. You will be prompted to enter your study jam code: <b>1s-lagos-6969</b></li>
-  <li>The code will ONLY be active on <b>23th May, 2020.</b></li>
+  <li>Find the Tensorflow on GCP and click “enroll”. You will be prompted to enter your study jam code which will be given during the program</li>
+  <li>The code will ONLY be active on <b>23rd May, 2020.</b></li>
   <li>Sign in with the Qwiklabs credentials.</li>
   <li>Then, click on the Enroll Quest button for the Quest, you will get the credits.</li>
   <li>Use the credits you have in your account to take any labs.</li>
