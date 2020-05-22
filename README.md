@@ -1,5 +1,11 @@
 # TFModel
 
+This respository serves as an Information Base for the Tensorflow Study Jam event that held on ..... By the Developer Student Clubs in Sub Saharan Africa. 
+
+Two examples using Tensorflow JS are described above, ensure to have Chrome Web server running to perform this code lab. 
+
+Also read the instructions below to get access to the Qwiklabs 
+
 Here are the following instructions to set-up a QwikLabs account
 
 You should follow the below steps to get your credits & one month pass:
