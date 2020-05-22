@@ -5,9 +5,7 @@ Here are the following instructions to set-up a QwikLabs account
 You should follow the below steps to get your credits & one month pass:
 
 1. If you have already signed in into your Qwiklabs account, log out of it.</br>
-
-                      OR
-                      
+                      OR</br>
 2. Enroll in the quest using the steps given below:
 
   <ul>
