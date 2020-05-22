@@ -8,7 +8,7 @@ You should follow the below steps to get your credits & one month pass:
 2. Enroll in the quest using the steps given below:
 
   <ul>
-  <li>Open <a href='https://go.qwiklabs.com/cloud-study-jams-2020', title='This Link'>[this link](https://go.qwiklabs.com/cloud-study-jams-2020) in the incognito window.</li>
+  <li>Open <a href='https://go.qwiklabs.com/cloud-study-jams-2020'>This Link</a></li>
   <li>Have them find the track you selected and click “enroll”. They will be prompted to enter your study jam code: <b>1s-lagos-6969</b></li>
   <li>The code will ONLY be active on the day of your event, 23th May, 2020.</li>
   <li>Sign in with the Qwiklabs credentials.</li>
